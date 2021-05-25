@@ -1,0 +1,132 @@
+body, html{
+  height: 100%;
+}
+.hero-image{
+margin-top: 60px;
+background-image: url("LostPHBanner.png");
+height: 25%;
+width: 75%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#carouselExampleIndicators{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 75%;
+margin-top: 10px;
+}
+.w-100 {
+width: 100% !important;
+height: 75vh;
+}
+
+#subm:hover {
+background-color: white;
+color: black;
+border-color: black;
+}
+#hom:hover{
+background-color: black;
+color: white;
+border-color: black;
+}
+
+#cardd{
+margin-top: 30px;
+height: 22em;
+width: 75%;
+border: 1px solid lightgray;
+}
+#postpic{
+max-width: 100%;
+height: auto;
+}
+
+#found{
+background-color: #0275d8;
+border-color: #0275d8;
+transform: translate(10%);
+position: relative;
+width: 50%;
+}
+#found:hover {
+background-color: #f7f7f7;
+color: #0275d8;
+border-color: #f7f7f7;
+;
+}
+
+#lost{
+margin: 10px 10px 0px 0;
+width: 50%;
+padding: 8px;
+}
+#lostp{
+float: left;
+width: auto;
+height: 300px;
+padding: 0 10px 0 0;
+}
+#post{
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 200px;
+position: relative;
+margin-top: 50px;
+width: 25%;
+height: 40px;
+text-align: center;
+}
+#post:hover {
+background-color: #f7f7f7;
+color: #0275d8;
+border-color: #f7f7f7;
+}
+.abt{
+margin: 70px auto;
+width: 50%;
+}
+img
+{
+float: left;
+width: auto;
+height: 260px;
+padding: 0 10px 0 0;
+}
+.text{
+text-align: justify;
+}
+#AboutUs{
+  margin-top: 8rem;
+}
+#ContactUs{
+margin-top: 8rem;
+}
+hr{
+border-top: 5px solid black; 
+width: 120px;
+margin-left: auto;
+margin-right: auto;
+}
+.forms{
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+}
+#subm{
+background-color: black;
+border-color: black;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 70px;
+position: relative;
+margin-top: 10px;
+width: 100%;
+};

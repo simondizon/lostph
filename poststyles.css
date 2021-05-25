@@ -1,0 +1,29 @@
+#navb:hover{
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+#userin{
+  margin-top: 30px;
+  height: 21em;
+  width: 75%;
+}
+hr{
+  margin-top: 170px;
+  border-top: 2px solid black;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: #ccc;
+  position: fixed;
+  top: 0;
+  background-color: #f1f1f1;
+}
+.progress-bar {
+  height: 8px;
+  background: #0275d8;
+}
